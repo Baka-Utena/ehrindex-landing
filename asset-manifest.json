@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ehrindex-landing/static/css/main.f09a4fd3.chunk.css",
+    "main.js": "/ehrindex-landing/static/js/main.67fc02bd.chunk.js",
+    "main.js.map": "/ehrindex-landing/static/js/main.67fc02bd.chunk.js.map",
+    "runtime-main.js": "/ehrindex-landing/static/js/runtime-main.ae446768.js",
+    "runtime-main.js.map": "/ehrindex-landing/static/js/runtime-main.ae446768.js.map",
+    "static/js/2.6c9988e1.chunk.js": "/ehrindex-landing/static/js/2.6c9988e1.chunk.js",
+    "static/js/2.6c9988e1.chunk.js.map": "/ehrindex-landing/static/js/2.6c9988e1.chunk.js.map",
+    "static/js/3.150d12dd.chunk.js": "/ehrindex-landing/static/js/3.150d12dd.chunk.js",
+    "static/js/3.150d12dd.chunk.js.map": "/ehrindex-landing/static/js/3.150d12dd.chunk.js.map",
+    "index.html": "/ehrindex-landing/index.html",
+    "static/css/main.f09a4fd3.chunk.css.map": "/ehrindex-landing/static/css/main.f09a4fd3.chunk.css.map",
+    "static/js/2.6c9988e1.chunk.js.LICENSE.txt": "/ehrindex-landing/static/js/2.6c9988e1.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/ehrindex-landing/static/media/shadow.b2baf632.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae446768.js",
+    "static/js/2.6c9988e1.chunk.js",
+    "static/css/main.f09a4fd3.chunk.css",
+    "static/js/main.67fc02bd.chunk.js"
+  ]
+}
